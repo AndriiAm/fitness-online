@@ -8,6 +8,6 @@ HTML, CSS (SCSS), JavaScript, Swiper JS, Gulp.
 **Live demo:**  
 [Fitness club landing](https://andriiam.github.io/fitness-online/)
 
-## What I Learned
+## What I Learnt
 
 - **BEM methodology:** During the development of this project I realized the true strentgh of BEM. Most of blocks on this page have the same structure, so I created a single block structure using BEM and applied modifiers to handle color variations. This approach significantly sped up the development.
