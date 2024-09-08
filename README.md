@@ -10,4 +10,4 @@ HTML, CSS (SCSS), JavaScript, Swiper JS, Gulp.
 
 ## What I Learned
 
-- **BEM methodology:** During developing this project I understood the real strentgh of BEM. Most of blocks in this page have the same structure, so by BEM methodology was made a single block structure and used modifiers to handle the color variations. 
+- **BEM methodology:** During the development of this project I realized the true strentgh of BEM. Most of blocks on this page have the same structure, so I created a single block structure using BEM and applied modifiers to handle color variations. 
